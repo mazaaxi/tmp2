@@ -6,7 +6,7 @@
   "scripts": {
   },
   "dependencies": {
-    "firebase-tools": "9.12.0"
+    "firebase-tools": "11.14.2"
   },
   "devDependencies": {
   }
