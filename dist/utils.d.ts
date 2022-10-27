@@ -1,2 +1,2 @@
-declare function greet(toName: string): void;
+declare function greet(toName: string): string;
 export { greet };

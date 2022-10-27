@@ -4,8 +4,8 @@
 //
 //========================================================================
 
-function greet(toName: string): void {
-  console.log(`Hello ${toName}`)
+function greet(toName: string): string {
+  return `Hello ${toName}`
 }
 
 //========================================================================
