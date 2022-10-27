@@ -1,0 +1,13 @@
+**/*.log
+**/~$*
+
+.cache/
+.idea/
+.node-version
+node_modules/
+
+/dist/**/*.js.map
+
+/src/**/*.js.map
+
+/tests/**/*.js.map
